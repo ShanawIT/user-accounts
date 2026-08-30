@@ -11,16 +11,16 @@ This tutorial outlines the process of creating users in Entra ID.
 - Windows 11
 <h2>Users Created</h2>
 <p>
-<<img width="1680" height="1050" alt="Screenshot 2026-08-29 at 11 56 43 PM" src="https://github.com/user-attachments/assets/38dcf78f-5b0a-4835-bf4f-b48f97d1a389" />
->
+<img width="1680" height="1050" alt="Screenshot 2026-08-29 at 11 56 43 PM" src="https://github.com/user-attachments/assets/38dcf78f-5b0a-4835-bf4f-b48f97d1a389" />
+
 </p>
 <p>
 Created a new user named Marquise Moo Young.
 </p>
 <br />
 <p>
-<<img width="1680" height="1050" alt="Screenshot 2026-08-29 at 11 57 30 PM" src="https://github.com/user-attachments/assets/c18e386a-934b-49e1-b258-aa2813da45e5" />
->
+<img width="1680" height="1050" alt="Screenshot 2026-08-29 at 11 57 30 PM" src="https://github.com/user-attachments/assets/c18e386a-934b-49e1-b258-aa2813da45e5" />
+
 </p>
 <p>
 Created a new user named Joshua Joseph.
